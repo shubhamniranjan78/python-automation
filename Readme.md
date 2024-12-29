@@ -46,12 +46,4 @@ Time-Saving: Focus more on building your project and less on managing commits.
 Efficiency: No need to manually track every change – auto_commit_generator handles it for you.
 Positive Project Momentum: With consistent commits, you'll see your progress grow steadily, which is a motivating factor for both personal projects and team collaboration.
 Contributing
-We welcome contributions from the community! Whether it’s a bug fix, new feature, or an improvement, feel free to open an issue or submit a pull request. Let's make auto_commit_generator even better, together!
-
-License
-This project is licensed under the MIT License – feel free to use, modify, and distribute as needed!
-
-Stay Connected
-If you have any questions, feedback, or suggestions, feel free to reach out via email or open an issue here on GitHub. Let's stay connected, and let's continue automating!
-
-
+We welcome contributions from the community! Whether it’s a bug fix, new 
